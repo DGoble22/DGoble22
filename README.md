@@ -1,6 +1,6 @@
 # Dylan Goble
 
-Full-stack developer studying computer science at the New Jersey Institute of Technology. I build Python APIs and React apps and ship them to production.
+Full-stack developer studying computer science at the New Jersey Institute of Technology.
 
 [Tahoe Kings](https://tahoekings.com) · [LinkedIn](https://www.linkedin.com/in/dylan-goble/) · Flanders, NJ
 
